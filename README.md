@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Gtropy Systems Pvt. Ltd.<br>👯 I’m looking to collaborate on innovative Mobile and web development projects.<br>🤝 I’m eager to contribute to challenging projects that push the boundaries of technology.<br>🌱 I’m currently learning about the latest trends in Mobile and web development.<br>💬 Ask me about full stack development and creating seamless Mobile and web applications.<br>⚡ Fun fact: I enjoy exploring new technologies and often spend my weekends working on personal tech projects and experimenting with new coding techniques.
+🔭 I’m currently working at Gtropy Systems Pvt. Ltd.<br>👯 I’m looking to take or collaborate on innovative Mobile and web development projects.<br>🤝 I’m eager to contribute to challenging projects that push the boundaries of technology.<br>🌱 I’m currently learning about the latest trends in Mobile and web development.<br>💬 Ask me about full stack development and creating seamless Mobile and web applications.<br>⚡ Fun fact: I enjoy exploring new technologies and often spend my weekends working on personal tech projects and experimenting with new coding techniques.
 
 
 ## 🌐 Socials:
