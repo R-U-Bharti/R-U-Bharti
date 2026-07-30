@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working at Gtropy Systems Pvt. Ltd.<br>👯 I’m looking to take or collaborate on innovative Mobile and web development projects.<br>🤝 I’m eager to contribute to challenging projects that push the boundaries of technology.<br>🌱 I’m currently learning about the latest trends in Mobile and web development.<br>💬 Ask me about full stack development and creating seamless Mobile and web applications.<br>⚡ Fun fact: I enjoy exploring new technologies and often spend my weekends working on personal tech projects and experimenting with new coding techniques.
+🚀 Frontend Engineer with 4 years of experience building scalable, high-performance web applications using React.js and Next.js.
+💼 Currently building modern SaaS applications at **Swipewire Technologies**, focusing on React.js, TypeScript, React Query, and interactive user experiences.
+⚡ Previously developed production-grade platforms for government and enterprise clients, including fleet management, property tax systems, and hospital management solutions serving **50,000+ users**.
+🔭 Passionate about Frontend Architecture, System Design, Performance Optimization, and building reusable, scalable UI components.
+🌱 Currently exploring advanced React patterns, Three.js, GSAP, AI-assisted development workflows, and cloud-native technologies.
+💬 Ask me about React.js, Next.js, TypeScript, Redux Toolkit, React Query, Node.js, React Native, performance optimization, and frontend architecture.
+🤝 Always open to collaborating on innovative web applications, SaaS products, and open-source projects.
 
 
 ## 🌐 Socials:
