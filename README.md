@@ -192,17 +192,9 @@ Government digital platform serving **50,000+ citizens**
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=R-U-Bharti&theme=tokyonight&show_icons=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=R-U-Bharti&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-U-Bharti&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=R-U-Bharti&theme=tokyonight&margin-w=10&no-frame=true)
+![](https://github-readme-stats.vercel.app/api?username=R-U-Bharti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=R-U-Bharti&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-U-Bharti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
