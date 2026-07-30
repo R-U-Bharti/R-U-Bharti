@@ -1,63 +1,215 @@
-# 💫 About Me:
-🚀 Frontend Engineer with 4 years of experience building scalable, high-performance web applications using React.js and Next.js. <br />
-💼 Currently building modern SaaS applications at **Swipewire Technologies**, focusing on React.js, TypeScript, React Query, and interactive user experiences.<br />
-⚡ Previously developed production-grade platforms for government and enterprise clients, including fleet management, property tax systems, and hospital management solutions serving **50,000+ users**.<br />
-🔭 Passionate about Frontend Architecture, System Design, Performance Optimization, and building reusable, scalable UI components.<br />
-🌱 Currently exploring advanced React patterns, Three.js, GSAP, AI-assisted development workflows, and cloud-native technologies.<br />
-💬 Ask me about React.js, Next.js, TypeScript, Redux Toolkit, React Query, Node.js, React Native, performance optimization, and frontend architecture.<br />
-🤝 Always open to collaborating on innovative web applications, SaaS products, and open-source projects.
+<h1 align="center">Hi 👋, I'm Kumar R U Bharti</h1>
+<h3 align="center">Frontend Engineer | React.js | Next.js | TypeScript | Node.js</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-u-bharti-54ab921a3) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me//918340441298) 
-
-# 💻 Tech Stack:
-🔥**Web Development**🔥<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br/> <br/>
-🔥**Mobile Development**🔥<br/>
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) <br/><br/>
-🔥**Backend Development**🔥<br/>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  <br/><br/>
-🔥**Databases**🔥<br/>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br/><br/>
-🔥**Others**🔥<br/>
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)<br/>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  <br/>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=R-U-Bharti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=R-U-Bharti&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-U-Bharti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+Building scalable, high-performance web applications with modern frontend technologies.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=R-U-Bharti&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🚀 Frontend Engineer with **4 years of experience** building scalable web applications using **React.js**, **Next.js**, and **TypeScript**.
+
+💼 Currently working at **Swipewire Technologies**, developing modern SaaS products with React.js, React Query, GSAP, and Three.js.
+
+🏗️ Previously delivered enterprise and government platforms serving **50,000+ users**, including Fleet Management, Property Tax, and Healthcare solutions.
+
+⚡ Passionate about
+
+- Frontend Architecture
+- Performance Optimization
+- Clean Code
+- System Design
+- Reusable Component Libraries
+- Interactive UI Experiences
+
+🌱 Currently exploring
+
+- AI-assisted Development
+- Advanced React Patterns
+- Three.js
+- GSAP
+- Cloud-native Applications
+
+💬 Ask me about
+
+- React.js
+- Next.js
+- TypeScript
+- Redux Toolkit
+- React Query
+- Node.js
+- React Native
+- Performance Optimization
+- Frontend Architecture
+
+🤝 Open to collaborating on
+
+- SaaS Products
+- Enterprise Applications
+- Open Source
+- AI-powered Web Applications
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/r-u-bharti-54ab921a3" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kumarrubharti.rtcit@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/R-U-Bharti">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://wa.me/918340441298">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+## 🎨 UI & Animation
+
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📱 Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+
+---
+
+## ⚙ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+---
+
+## 🗄 Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+---
+
+## 🧪 Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library)
+
+---
+
+## 🛠 Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+
+---
+
+# 🚀 Featured Projects
+
+### 🚗 Vahan Shakti (Fleet Management)
+
+- RBAC
+- Live GPS Tracking
+- IoT Dashboard
+- Real-time Monitoring
+- 30,000+ Users
+
+---
+
+### 🏥 Hospital Management System
+
+- Next.js
+- Redux Toolkit
+- Tailwind CSS
+- ShadCN UI
+- ABHA API Integration
+
+---
+
+### 📰 Naxatra News
+
+- Next.js
+- React Native
+- Admin Panel
+- Publishing Dashboard
+
+---
+
+### 🏛 Property Tax System
+
+Government digital platform serving **50,000+ citizens**
+
+- Citizen Portal
+- Admin Dashboard
+- Multi-level RBAC
+- Secure Authentication
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=R-U-Bharti&theme=tokyonight&show_icons=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=R-U-Bharti&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-U-Bharti&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=R-U-Bharti&theme=tokyonight&margin-w=10&no-frame=true)
+
+---
+
+# 📊 Profile Views
+
+![](https://komarev.com/ghpvc/?username=R-U-Bharti&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+> **"Building products that are fast, scalable, and delightful to use." 🚀**
